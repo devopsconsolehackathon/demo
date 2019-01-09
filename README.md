@@ -8,5 +8,3 @@
 * seven
 * eight...Steve Gerrard!! Gerrard!!
 * Firmino
-* x
-* y
